@@ -1,0 +1,9 @@
+I:\迅雷下载\HistgramBinaryzation\Histgram + Binaryzation\bin\Release\Binaryzation.exe.config
+I:\迅雷下载\HistgramBinaryzation\Histgram + Binaryzation\bin\Release\Binaryzation.exe
+I:\迅雷下载\HistgramBinaryzation\Histgram + Binaryzation\bin\Release\Binaryzation.pdb
+I:\迅雷下载\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Release\Binaryzation.csprojResolveAssemblyReference.cache
+I:\迅雷下载\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Release\BilateralFilter.FrmTest.resources
+I:\迅雷下载\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Release\Binaryzation.Properties.Resources.resources
+I:\迅雷下载\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Release\Binaryzation.csproj.GenerateResource.Cache
+I:\迅雷下载\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Release\Binaryzation.exe
+I:\迅雷下载\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Release\Binaryzation.pdb
